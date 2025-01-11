@@ -1,6 +1,6 @@
 
 
-## Willkommen auf der xStream Webseite für Kodi!
+## Willkommen auf der OakTec Webseite für Kodi!
 
 ![xStream logo](https://raw.githubusercontent.com/streamxstream/xStreamRepoWeb/gh-pages/icon.png)
 
@@ -16,7 +16,7 @@ Habt Ihr Fragen rund um xStream findet Ihr sicher eure Antworten in unserer FAQ.
 
 Für alles weitere findet Ihr auch Informationen auf unserer Webseite die Ihr auch als Quelle in Kodi einbinden könnt.
 
-[![Web Portal aufrufen](https://raw.githubusercontent.com/streamxstream/xStreamRepoWeb/gh-pages/config/web.png)](https://streamxstream.github.io/xStreamRepoWeb/)
+[![Web Portal aufrufen](https://raw.githubusercontent.com/streamxstream/xStreamRepoWeb/gh-pages/config/web.png)](https://oak-tec.github.io/OakTec-RepoWeb//)
 
 ***
 
