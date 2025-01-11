@@ -8,7 +8,7 @@ Hier auf unserer kleinen Webseite findet Ihr alle erforderlichen Informationen u
 
 ***
 
-Habt Ihr Fragen rund um xStream findet Ihr sicher eure Antworten in unserer FAQ.
+Habt Ihr Fragen rund um OakTec findet Ihr sicher eure Antworten in main FAQ.
 
 [![FaQ aufrufen](https://raw.githubusercontent.com/streamxstream/xStreamRepoWeb/gh-pages/config/faq.png)](https://github.com/streamxstream/xStream-FAQ/blob/master/xStream_Anleitung_FAQ.md)
 
