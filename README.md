@@ -2,7 +2,7 @@
 
 ## Willkommen auf der OakTec Webseite für Kodi!
 
-![xStream logo](https://raw.githubusercontent.com/streamxstream/xStreamRepoWeb/gh-pages/icon.png)
+![logo](https://github.com/Oak-Tec/OakTec-RepoWeb/blob/main/icon.png)
 
 Hier auf unserer kleinen Webseite findet Ihr alle erforderlichen Informationen und Links rund um xStream.
 
